@@ -1,3 +1,5 @@
+Вся вторая часть моего проекта - полная чушь, я знаю, извините((
+
 SELECT c.login,
        COUNT(o.id) AS total_orders_indelivery
 FROM "Couriers" AS c
